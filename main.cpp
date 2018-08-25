@@ -65,22 +65,4 @@ int main(){
 	 }
 	return 0;
 }
-/*Breaking problem
- what do i want: 
- 
-  1. Menu  done..
-  2. where do you want to go  done..
-     
-  3. how many tickets  done..
-     
-  4. print ticket.
-       1. ticket type
-       2.ticket no
-       3. Fare
-       4. device id
-       5. Greetings
-       6.
 
-
-
-*/
